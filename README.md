@@ -33,3 +33,6 @@ Run the main script:
 ```
 python main.py
 ```
+## Dataset
+The dataset used for this project should contain structured clinical data and text-based patient notes. Make sure the data file (kidney_disease.csv) is placed in the appropriate folder before running the script.
+
