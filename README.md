@@ -15,17 +15,21 @@ Renalytics is an AI-powered tool for predicting the likelihood of chronic kidney
 ## Installation
 To run this project, you'll need to install the required libraries:
 
-```bash
-pip install pandas scikit-learn xgboost transformers matplotlib seaborn numpy```
+```
+pip install pandas scikit-learn xgboost transformers matplotlib seaborn numpy
+```
 
 ## Usage
 Clone this repository:
-```bash
+```
 git clone https://github.com/yourusername/Renalytics.git
+```
 Navigate to the project directory:
-bash``
 
+```
 cd Renalytics
+```
 Run the main script:
-```bash
-python main.py```
+```
+python main.py
+```
